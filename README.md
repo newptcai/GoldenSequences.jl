@@ -1,5 +1,5 @@
 # GoldenSequences.jl
-Generalized golden sequences, a form of low discrepancy sequence or quasi random numbers
+Generalized golden sequences, a form of low discrepancy sequence or quasi random numbers.
 See [Martin Roberts: The Unreasonable Effectiveness
 of Quasirandom Sequences](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/) for background.
 
